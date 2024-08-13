@@ -1,0 +1,38 @@
+[
+  {
+    "anomaly_length": {
+      "max": 19,
+      "median": 7,
+      "min": 2
+    },
+    "contamination": 0.040873015873015874,
+    "dataset_id": [
+      "CalIt2",
+      "CalIt2-traffic"
+    ],
+    "dimensions": 2,
+    "is_train": false,
+    "length": 5040,
+    "means": {
+      "in_count": 3.888293650793651,
+      "out_count": 3.7375
+    },
+    "num_anomalies": 29,
+    "periods": {
+      "in_count": 48,
+      "out_count": 48
+    },
+    "stationarities": {
+      "in_count": "difference_stationary",
+      "out_count": "stationary"
+    },
+    "stddevs": {
+      "in_count": 6.834564648054589,
+      "out_count": 6.0103719391889845
+    },
+    "trends": {
+      "in_count": [],
+      "out_count": []
+    }
+  }
+]
